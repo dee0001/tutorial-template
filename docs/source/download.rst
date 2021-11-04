@@ -1,7 +1,7 @@
-API
+Download
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   bla bla
