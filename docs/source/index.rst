@@ -11,6 +11,6 @@ Contents
 
 .. toctree::
 
-   Download
-   Installation
+   download
+   installation
    Content
